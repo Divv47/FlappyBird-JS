@@ -8,7 +8,6 @@ let context;
 let birdWidth = 34;
 let birdHeigth = 24;
 
-
 window.onload = function(){
     board = document.getElementById("board");
     board.height = boardHeight;
