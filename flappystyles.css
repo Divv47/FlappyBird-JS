@@ -4,5 +4,6 @@ body{
 }
 
 #board{
-    background-color: skyblue;
+    background-image: url("./flappybirdbg.png");
+    background:url("flappybirdbg.png");
 }
